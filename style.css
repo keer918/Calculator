@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to top left, #ffff00 0%, #00ffff 100%);
+}
+h1{
+text-align:center;
+font-weight: bold;
+}
+h1:hover{
+background-color:#ffccff;
+}
+
+table{
+margin:30px 460px;
+padding:5px;
+height: 450px;
+width:300px;
+border-radius:14px;
+background: linear-gradient(to top right, #0000ff 0%, #ff00ff 100%);
+}
+
+#button1{
+border:none;
+font-size:35px;
+width:55px;border-radius: 14px;
+}
+
+#res{
+height:40px;
+width:200px;
+font-size:25px;
+}
